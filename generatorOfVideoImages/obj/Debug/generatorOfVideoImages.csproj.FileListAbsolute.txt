@@ -1,0 +1,11 @@
+F:\Visual Studio\Projects\generatorOfVideoImages\generatorOfVideoImages\bin\Debug\generatorOfVideoImages.exe.config
+F:\Visual Studio\Projects\generatorOfVideoImages\generatorOfVideoImages\bin\Debug\generatorOfVideoImages.exe
+F:\Visual Studio\Projects\generatorOfVideoImages\generatorOfVideoImages\bin\Debug\generatorOfVideoImages.pdb
+F:\Visual Studio\Projects\generatorOfVideoImages\generatorOfVideoImages\obj\Debug\generatorOfVideoImages.exe
+F:\Visual Studio\Projects\generatorOfVideoImages\generatorOfVideoImages\obj\Debug\generatorOfVideoImages.pdb
+F:\Visual Studio\Projects\generatorOfVideoImages\generatorOfVideoImages\bin\Debug\Splicer.dll
+F:\Visual Studio\Projects\generatorOfVideoImages\generatorOfVideoImages\bin\Debug\DirectShowLib-2005.dll
+F:\Visual Studio\Projects\generatorOfVideoImages\generatorOfVideoImages\bin\Debug\DirectShowLib-2005.pdb
+F:\Visual Studio\Projects\generatorOfVideoImages\generatorOfVideoImages\bin\Debug\Splicer.pdb
+F:\Visual Studio\Projects\generatorOfVideoImages\generatorOfVideoImages\bin\Debug\Splicer.Fakes.dll
+F:\Visual Studio\Projects\generatorOfVideoImages\generatorOfVideoImages\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll

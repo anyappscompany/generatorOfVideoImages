@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<queue-answer>
+  <status>
+    <code>0</code>
+    <message>Successfully inserted job into queue.</message>
+  </status>
+  <params>
+    <downloadUrl>http://www.online-convert.com/result/77a4c91e4509845bd729c463a440effe</downloadUrl>
+    <hash>77a4c91e4509845bd729c463a440effe</hash>
+  </params>
+</queue-answer>
